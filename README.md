@@ -1,2 +1,2 @@
 # takens
-Taken's Embedding Theorem
+Testing Taken's Embedding Theorem, under different level of noise
